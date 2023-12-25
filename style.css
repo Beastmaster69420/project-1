@@ -1,0 +1,43 @@
+*
+{
+ margin:0 auto;
+ padding: 0;
+ box-sizing:border-box;
+}
+img{
+    display: block;
+}
+.container{
+    width: 80%;
+    display: block;
+}
+.clear{
+    clear:both;
+}
+header{
+    padding: 10px 0;
+}
+header h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 12px;
+    color:black;
+}
+nav{
+    background-color: black;
+}
+.menu{
+    padding:15px 0;
+}
+.menu a{
+    color:wheat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    font-size: 16px;
+    display: inline-block;
+    padding: 0 20px;
+
+}
+.menu a:hover{
+    color:black;
+    text-decoration: underline;
+}
