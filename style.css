@@ -142,9 +142,8 @@ nav{
 }
 footer{
     padding: 30px 0;
-    background: rgb(177,156,42);
-    background: linear-gradient(90deg, rgba(177,156,42,1) 37%, rgba(0,0,0,1) 81%, rgba(0,0,0,1) 100%);
-    
+    background: rgb(115,98,10);
+    background: linear-gradient(90deg, rgba(115,98,10,1) 0%, rgba(0,0,0,1) 81%, rgba(0,0,0,1) 100%);
 }
 .fboxes{
     display: flex;
